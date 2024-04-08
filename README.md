@@ -1,8 +1,8 @@
-###Mini-PI
+### Mini-PI
 
-###Este projeto visa praticar a habilidade de criar um site utilizando HTML e CSS
+### Este projeto visa praticar a habilidade de criar um site utilizando HTML e CSS
 
-###Tecnologia utilizada no projeto: 
+### Tecnologia utilizada no projeto: 
 ##HTML e CSS
 
-###Link: https://minipi.netlify.app/
+### Link: https://minipi.netlify.app/
